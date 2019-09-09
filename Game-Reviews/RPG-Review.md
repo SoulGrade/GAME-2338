@@ -1,15 +1,16 @@
-# Game Review for (GAME TITLE)
+# Game Review for (Persona 5)
 
 ## Details
+Persona 5 is a roleplaying game form Atlus and the sixth installment of the persona series. It was released for the PlayStation 3 and PlayStation 4 in Japan in September 2016 then worldwide in April 2017.
 
 ### Game Title
-The name of the game, subtitle, and the url or information on how to find the game.
+Persona 5, can be purchase form Gamestop and Atlus
 
 ### Rating
-Insert your rating system. Example: I rate games from 1 to 5 stars and I give this game a 3 star rating.
+I rate Persona 5, 5 out 5 stars.
 
 ## Summary
-This game is about... this should be at least 3-4 paragraphs summarising the gameplay mechanics of the game. You should be answering the who, what, when, where, why, and how of the game itself.
+The plot: The story takes place in Japan and begains with the protagonist transferring to another high school due to being expelled for a falsely accused crime he did not commit. While on his way to the new school a mysterious app appears onto his phone.
 
 ## Final Thoughts
 I like this about the game but didn't like this particular feature. This should be at a minimum of one paragraph.
