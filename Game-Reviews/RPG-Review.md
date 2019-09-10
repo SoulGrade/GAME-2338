@@ -26,7 +26,7 @@ The story takes place in Japan and begains with the protagonist transferring to 
 **Battle**: Turn base battle system where speed determines who goes first. The player controlls a team with a max of four PCs where they give demands to attack, guard, run away, use items or skills. The protagonist will always be in the team and is able to have multiple personas but can switch only once per turn. Whenever a PC or enemie hits a characters' weakest they gain an extra action. Also the player can equip PCs with equipment to increase their stats.
 
 ## Final Thoughts
-I haved always like the  
+I haved always like the compendium not only does it make getting personas convenient it also give lore of the personas because personas are base on mythical creatures from different cultures around the world and lern more about them has always interest me. One thing I miss is when you complete all Social Links in one playthrough you can unlock the true ending they did this for the Persona 4 but in persona 5 you can still get the true ending even though you didn't complete all Social Links so there is't any real reward for completing all Social Links in one playthrough. 
 
 ## Additional Information
-Links to other reviews or other information you used in this review.
+For more information go here, [Persona 5 IGN](https://www.ign.com/articles/2017/03/29/persona-5-review) 
