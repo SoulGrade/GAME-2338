@@ -10,7 +10,12 @@ Overwatch can be purchase at any store that sells games and Blizzard Enterainmen
 I rate this game, 4 out of 5 stars.
 
 ## Summary
-This game is about... this should be at least 3-4 paragraphs summarising the gameplay mechanics of the game. You should be answering the who, what, when, where, why, and how of the game itself.
+
+### Plot
+There was an elite organization called "Overwatch" that kept the world's peace but afther a while the general public began to question the trust worthiest due to scandals and their headquarters was attacked afther that Overwatch disbanded. Years past and now an terrorist group called "Talon" is making its move. Overwatch members are being recalled back to form Overwatch once again to protect the world.
+
+### Game Mechanics
+**Heroes**-Players are able to pick for a large variety of heroes. Each hero has they own unique range attack, two active abilities(some heroes have passive, and an ultimate abilitie. All heroes have an melee attack that, except for a few, work the same and do the same damage. 
 
 ## Final Thoughts
 I like how players are able to switch out heroes during a match depending on the situation and by doing so the matchs will have an ever changing dynamic but I wish there were some kind of singer player campain. 
