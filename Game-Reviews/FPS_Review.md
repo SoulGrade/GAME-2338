@@ -18,9 +18,13 @@ There was an elite organization called "Overwatch" that kept the world's peace b
 **Heroes**-Players are able to pick for a large variety of heroes. Each hero has they own unique range attack, two active abilities(some heroes have passive abilities), and an ultimate abilitie. All heroes have an melee attack that(except for a few)work the same and do the same damage. Heroes range attacks are in form guns, they have unlimited ammo but heroes need to reload. Ultimates charge overtime and charge fast when dealing damage to enemies heroes, Ultimates can't be use untill fully charged.
 
 **Matchs**- Two Teams of six go against each other untill one team completes their objective. When a player dies they will have to wait before getting back into the match but at this time they can change thier hero.Objectives are base on the game mode.
+
 *Assault*, one team must take two capture points, while the other team attempts to prevent them until the time runs out.
+
 *Control*, two teams fight over a capture point in a best-of-two format.
+
 *Escort*, one team must escort a payload to a delivery point, while the other team attempts to prevent them until the time runs out.
+
 *Hybrid*, combines Assault and Escort.
 
 ## Final Thoughts
