@@ -18,7 +18,7 @@ There are six characters the player can choose form each with thier own unique a
 
 Characters gain experience by defeating enemies and when they level up their max HP increases and are fully healed and some times gain an exrta dice.
 
-
+Most characters have an inventory that is an 4X5 box that holds equipment and can equip them in a 2X3 box. The Witch and Jester are the exception and don't gain epuipment insted gain new "spells" or "moves" but they function the same as equipment. 
 
 * **Warrior**-Can reroll his dice. LB(limit break)-doubles the next action.
 
@@ -32,7 +32,18 @@ Characters gain experience by defeating enemies and when they level up their max
 
 * **Jester**-Has a list "moves" and when a "move" is use is replace with a new "move". The player can see the three next "moves" and can discard two matching "moves" to get two new "moves". LB-Use two mathing "moves" with out dice.
 
+### Game Modes
+Each character has six episodes
 
+* **Episode 1: Introduction**-Stantard rules.
+
+* **Episode 2&3: Unique Scenarios**-Special rules are given at the beginning of the run for each character.
+
+* **Episode 4: Elimination Round**-Stantard rules but enemies have 10% more health and their epuipment is upgraded 
+
+* **Episode 5: Parallel Universe**-Everthing but basic mechanics are different.
+
+* **Episode 6: Bonus Round**-Afther every floor a radoom rule is added. 
 
 ## Final Thoughts
 I like this about the game but didn't like this particular feature. This should be at a minimum of one paragraph.
