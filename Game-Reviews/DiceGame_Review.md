@@ -1,4 +1,4 @@
-# Game Review for (Dicey Dungeon)
+# Game Review for (Dicey Dungeons)
 
 ## Details
 Dicey Dungeons is a roguelike, deck-building game developed by Terry Cavanagh. Released 13 August 2019 for Microsoft Windows.
@@ -33,7 +33,7 @@ Most characters have an inventory that is an 4X5 box that holds equipment and ca
 * **Jester**-Has a list "moves" and when a "move" is use is replace with a new "move". The player can see the three next "moves" and can discard two matching "moves" to get two new "moves". LB-Use two mathing "moves" with out dice.
 
 ### Game Modes
-Each character has six episodes
+Each character has 7 game modes called "episodes". 
 
 * **Episode 1: Introduction**-Stantard rules.
 
@@ -43,10 +43,20 @@ Each character has six episodes
 
 * **Episode 5: Parallel Universe**-Everthing but basic mechanics are different.
 
-* **Episode 6: Bonus Round**-Afther every floor a radoom rule is added. 
+* **Episode 6: Bonus Round**-Afther every floor a radoom rule is added.
+
+* **Episode 7: Back Stage**-Beat enemies then they become yor allies to defeat Lady Luck.
+
+### Dungeons
+Each dungeon is randomly generated and there six levels of a dungeon the player wins the run when they beat the boss on level 6. The dugeon is filled with chests, where the player gains epuiment, anvils, where the player can upgrade their epuiment, shops, where the player can buy epuiment, and food, which heals the player. Also enemies are in the dungeons but the player dosen't have to fight all enemies to reach the next level.
+
+### Battle
+Dicey Dungeons has has a turn-base battle system and at the start of the player's turn rolls a set of dice and the dice will determine the player's actions through equiment. Equiment is the main way players interact in battle. Equiment can deal damage, inflict status ailments, heal, amd ect. but all equiment need dice inorder to be use. Some need any dice, some must need odd or even dice, and some need a specific number.
+
+Enemies work the same as the player with their own set of dice and equiment but the also have strengths and weaknesses. When the player defeats an enemy they earn gold and EXP.
 
 ## Final Thoughts
-I like this about the game but didn't like this particular feature. This should be at a minimum of one paragraph.
+I very like how the equiment need dice inorder to be use it is something I haven't seen in a game and adds an element unsurety that you would get in other turn-base battle.
 
 ## Additional Information
 For more information, [Dicey Dungeons](https://terrycavanagh.itch.io/dicey-dungeons).
