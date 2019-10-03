@@ -9,6 +9,7 @@ A group of psycholoigist dedicated to find user data one person at a time. Getti
 
 ### Play Testing
 Broader sample, multiple players. The developer don't not know how a player will play their game. Getting data on bugs and what's fun and not fun. Can find user data on a map with data points where they can click on the point to see how the player die or got stuck and what they found frustrating. 
+
 **Mutilplayer**
  A lot more variables to test, hours of automation testing require for Xbox live. 
 
