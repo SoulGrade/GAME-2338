@@ -28,7 +28,13 @@ There are 7 card types
 * **Planeswalkers**: Planeswalkers have multiple abilties but can only use 1 per turn. Planeswalkers come in to play with an loyalty counter that goes up or down depending on the abilty used. When receiving damage the loyalty counter will go down when the loyalty counter reaches 0 the planeswalker leaves the field.
 
 ### Battle
-In Magic: the gathering arena there are 2 players that play against each other each with 20 life if a player's life reaches 0 they lose they also lose if they no cards to draw. Each player starts with 7 cards, a player can get a new hand but start with one less card and can repeat this action until the player has no more cards in hand. Players have a library and a graveyard. The library is where the player's deck is and where they draw cards and the graveyard is where creatures and planeswalkers dies, sorceries & instances are used, and destroyed enchantments & artifacts go.
+In Magic: the gathering arena there are 2 players that play against each other each with 20 life if a player's life reaches 0 they lose they also lose if they no cards to draw. Each player starts with 7 cards, a player can get a new hand but start with one less card and can repeat this action until the player has no more cards in hand. Players have a library and a graveyard. The library is where the player's deck is and where they draw cards and the graveyard is where creatures and planeswalkers dies, sorceries & instances are used, and destroyed enchantments & artifacts go. 
+
+**The Stack"
+
+When ever a card comes into play or an abilty is activated a player has a chance to respond with an Instance. For example, if a play cast a card that kills a creature the other player can cast a counter card negating the kill card. The last card that comes into play will resolved first.
+
+**Phases**
 
 There are 6 phases in a match of In Magic: the gathering 
 
@@ -45,7 +51,7 @@ There are 6 phases in a match of In Magic: the gathering
 6.**End**-Play cards.
 
 ## Final Thoughts
-I like this about the game but didn't like this particular feature. This should be at a minimum of one paragraph.
+I like the "Stack" mechanic, it is unlike any other mechanic in a deck building game. Players must be wary during thier turn because they can spend a lot of resoures that might be negated.
 
 ## Additional Information
-Links to other reviews or other information you used in this review.
+For more informatiom, [Extra Credits: Magic the Gathering](https://www.youtube.com/playlist?list=PLtmG3-YP1ACYqXhubayli68h1h6xg3BPZ).
