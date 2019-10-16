@@ -1,19 +1,19 @@
 # Game Review for (Hungry Shark Evolution)
 
 ## Details
-The 5th installment of the Hungry Shark series released on the 18th of October, 2012, created by Future Games of London (FGOL).
+The 5th installment of the Hungry Shark series released October 18, 2012, created by Future Games of London (FGOL).
 
 ### Game Title
-The name of the game, subtitle, and the url or information on how to find the game.
+Hungry Shark Evolution can be downloaded for free on iOS and Android.
 
 ### Rating
-Insert your rating system. Example: I rate games from 1 to 5 stars and I give this game a 3 star rating.
+I rate this game 3 out of 5 stars .
 
 ## Summary
 This game is about... this should be at least 3-4 paragraphs summarising the gameplay mechanics of the game. You should be answering the who, what, when, where, why, and how of the game itself.
 
 ## Final Thoughts
-I like this about the game but didn't like this particular feature. This should be at a minimum of one paragraph.
+I like that there are multiple sharks you can choose for and with own unique characteristics but the game play itself I found boring afther a while.
 
 ## Additional Information
 Links to other reviews or other information you used in this review.
