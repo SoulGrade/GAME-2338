@@ -11,13 +11,13 @@
 > _Answer:_ No, from what I've played every thing had a purpose.
 
 **Question:** Is this game balanced? If not, what is the target audience for this game based on that imbalance?
-> _Answer:_ Yes, the player and the AI are balanced, the player has a set of moves to take dome enemies. 
+> _Answer:_ Yes, the player and the AI are balanced, the player has a set of moves to take dome enemies. I believe the target audience are Intermediate gamers.
 
 **Question:** Does the timing of this game appear to be about right for this type of game?
-> _Answer:_ Your answer here
+> _Answer:_ Each level has has an final score which is determine by multiple factors damage taken, challenges completed, time passed, ect. Players have unlimited unlimited amount of time but the less amount of time taken to beat a level increases the score which I believe this fits with this type of game.
 
 **Question:** During gameplay did the mechanics and theme go together and reinforce each other?
-> _Answer:_ Your answer here
+> _Answer:_ Yes the mechanics and theme go together and reinforce each other. In Astral Chain you play as an elite cop that portects society from extradimensional invaders called chimeras but while you fight chimers you still have other duties such as apprehending criminals and investigating scenes. 
 
 **Question:** Did you have fun playing this game?
 > _Answer:_ Yes, Astarl Chain is a fast pace action game where levels take form as different missions where you take on multiple enemies with multiple battle techniques to take them down with. 
