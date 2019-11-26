@@ -18,39 +18,17 @@ There are 11 playable characters, that for the must part have the same controls 
 
 **CONTROLS**
 
-*Up - Accelerate
+* Up - Accelerate
 
-*Down - Reverse
+* Down - Reverse
 
-*Left - Lean Left
+* Left - Lean Left
 
-*Right - Lean Right
+* Right - Lean Right
 
-*Z - Eject
+* Z - Eject
 
-*Space - Jump, Bost, Brake, or ect.
-
-1.Wheelchair Guy
-
-2.Segway Guy
-
-3.Irresponsible Dad
-
-4.Effective Shopper
-
-5.Moped Couple
-
-6.Lawnmower Man
-
-7.Explorer Guy
-
-8.Santa Claus
-
-9.Pogostick Man
-
-10.Irresponsible Mom
-
-11.Helicopter Man
+* Space - Jump, Bost, Brake, or ect.
 
 ### Level Editor
 Players can create and share their own stage to other players and load other player made stages.  
