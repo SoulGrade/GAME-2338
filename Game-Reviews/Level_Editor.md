@@ -18,10 +18,15 @@ There are 11 playable characters, that for the must part have the same controls 
 
 **CONTROLS**
 Up - Accelerate
+
 Down - Reverse
+
 Left - Lean Left
+
 Right - Lean Right
+
 Z - Eject
+
 Space - Jump, Bost, Brake, or ect.
 
 *Wheelchair Guy
