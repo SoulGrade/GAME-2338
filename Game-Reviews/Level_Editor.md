@@ -4,7 +4,7 @@
 Happy Wheels is a ragdoll physics-based platform browser game developed and published by studio **Fancy Forc**. Created by Jim Bonacci in June 4, 2010. 
 
 ### Game Title
-Happy Wheels can be dowloaded for free or people can play the flash version of Happy Wheels on [Total Jerkface.com(http://totaljerkface.com/).
+Happy Wheels can be dowloaded for free or people can play the flash version of Happy Wheels on [Total Jerkface.com](http://totaljerkface.com/).
 
 ### Rating
 I rate this game 4 out of 5 stars.
