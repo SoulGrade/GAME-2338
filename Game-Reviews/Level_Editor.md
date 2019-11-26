@@ -17,39 +17,40 @@ Players will pick a charater form a list of charaters to complete a stage. Stage
 There are 11 playable characters, that for the must part have the same controls with Space being an changing ability depending on the character.
 
 **CONTROLS**
-Up - Accelerate
 
-Down - Reverse
+*Up - Accelerate
 
-Left - Lean Left
+*Down - Reverse
 
-Right - Lean Right
+*Left - Lean Left
 
-Z - Eject
+*Right - Lean Right
 
-Space - Jump, Bost, Brake, or ect.
+*Z - Eject
 
-*Wheelchair Guy
+*Space - Jump, Bost, Brake, or ect.
 
-*Segway Guy
+1.Wheelchair Guy
 
-*Irresponsible Dad
+2.Segway Guy
 
-*Effective Shopper
+3.Irresponsible Dad
 
-*Moped Couple
+4.Effective Shopper
 
-*Lawnmower Man
+5.Moped Couple
 
-*Explorer Guy
+6.Lawnmower Man
 
-*Santa Claus
+7.Explorer Guy
 
-*Pogostick Man
+8.Santa Claus
 
-*Irresponsible Mom
+9.Pogostick Man
 
-*Helicopter Man
+10.Irresponsible Mom
+
+11.Helicopter Man
 
 ### Level Editor
 Players can create and share their own stage to other players and load other player made stages.  
