@@ -1,16 +1,53 @@
 # Game Review for (Happy Wheels)
 
 ## Details
-Happy Wheels is a ragdoll physics-based platform browser game developed and published by studio **Fancy Forc**. Created by Jim Bonacci in 2010
+Happy Wheels is a ragdoll physics-based platform browser game developed and published by studio **Fancy Forc**. Created by Jim Bonacci in June 4, 2010. 
 
 ### Game Title
-The name of the game, subtitle, and the url or information on how to find the game.
+Happy Wheels can be dowloaded for free or people can play the flash version of Happy Wheels on [Total Jerkface.com] (http://totaljerkface.com/).
 
 ### Rating
-Insert your rating system. Example: I rate games from 1 to 5 stars and I give this game a 3 star rating.
+I rate this game 4 out of 5 stars.
 
 ## Summary
-This game is about... this should be at least 3-4 paragraphs summarising the gameplay mechanics of the game. You should be answering the who, what, when, where, why, and how of the game itself.
+### Game Play
+Players will pick a charater form a list of charaters to complete a stage. Stages' can have a variety of ways to complete them from "geting to point A to point B" to "Collecting all coins to complete".
+
+### Characters
+There are 11 playable characters, that for the must part have the same controls with Space being an changing ability depending on the character.
+
+**CONTROLS**
+Up - Accelerate
+Down - Reverse
+Left - Lean Left
+Right - Lean Right
+Z - Eject
+Space - Jump, Bost, Brake, or ect.
+
+*Wheelchair Guy
+
+*Segway Guy
+
+*Irresponsible Dad
+
+*Effective Shopper
+
+*Moped Couple
+
+*Lawnmower Man
+
+*Explorer Guy
+
+*Santa Claus
+
+*Pogostick Man
+
+*Irresponsible Mom
+
+*Helicopter Man
+
+### Level Editor
+Players can create and share their own stage to other players and load other player made stages.  
 
 ## Final Thoughts
 I like this about the game but didn't like this particular feature. This should be at a minimum of one paragraph.
