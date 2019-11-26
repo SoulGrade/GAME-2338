@@ -1,7 +1,7 @@
 # Game Review for (Happy Wheels)
 
 ## Details
-Happy Wheels is a ragdoll physics-based platform browser game developed and published by studio **Fancy Forc**. Created by Jim Bonacci in June 4, 2010. 
+Happy Wheels is a ragdoll physics-based platform browser game developed and published by studio **Fancy Force**. Created by Jim Bonacci in June 4, 2010. 
 
 ### Game Title
 Happy Wheels can be dowloaded for free or people can play the flash version of Happy Wheels on [Total Jerkface.com](http://totaljerkface.com/).
@@ -31,10 +31,16 @@ There are 11 playable characters, that for the must part have the same controls 
 * Space - Jump, Bost, Brake, or ect.
 
 ### Level Editor
-Players can create and share their own stage to other players and load other player made stages.  
+Players can create their own stage for a blank template and share to other players and load other player made stages.
+
+* **Shapes**-Create rectangles, circles and triangles.
+
+* **Polygons**-Create alternative to shapes with a maximum of 10 vertices when interactive, and 50 when not.
+
+* **Joints**-Are used to attach one object to another and to add motors to objects.
 
 ## Final Thoughts
-I like this about the game but didn't like this particular feature. This should be at a minimum of one paragraph.
+The level editor is the most injoyable part of Happy Wheels with levels' creativity only limited by the creator's creativity. With hundreds of created levels there are plenty of levels to chose from also levels can be rated so you will know which will be the best. 
 
 ## Additional Information
-Links to other reviews or other information you used in this review.
+For more information, [Total Jerkface.com](http://totaljerkface.com/).
